@@ -25,5 +25,3 @@ function dec(n){
 function parseInt(n){
   return parseInt(n,10);
 }
-
-function
